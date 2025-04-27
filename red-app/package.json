@@ -1,6 +1,6 @@
 {
   "name": "trafficlight-app",
-  "version": "v1.0",
+  "version": "1.0.0",
   "description": "Traffic Light challenge with Docker",
   "author": "Hayk Davtyan <GH: @hayk96>",
   "main": "app.js",
